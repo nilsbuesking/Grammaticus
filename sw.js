@@ -4,7 +4,7 @@
  * changes, so raise VERSION with every push (tests/version_check.py fails if this is forgotten).
  * Fonts from Google go into a separate cache, MEDIA, which survives version changes. Requests to GitHub (the
  * automatic backup) are never cached. */
-const VERSION = 'grammaticus-v14';
+const VERSION = 'grammaticus-v15';
 const MEDIA = 'grammaticus-media';
 const MEDIA_MAX = 200;   // entries; the oldest are removed beyond this
 const CORE = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png',

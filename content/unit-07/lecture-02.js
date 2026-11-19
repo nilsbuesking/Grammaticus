@@ -57,7 +57,7 @@ Grammaticus.addLecture({
         <p>The often-quoted pairs <em>cow/beef, pig/pork, sheep/mutton</em> (English animal, French meat) are real, but the neat explanation that Saxon peasants tended the animals while Norman lords ate them was popularised by Walter Scott’s <em>Ivanhoe</em> (1819); historians regard it as a simplification.</p>` },
     { title: 'How much of English is Latin?',
       html: `
-        <p>A frequently cited count (Finkenstaedt and Wolff, <em>Ordered Profusion</em>, 1973), based on a dictionary of about 80,000 words, found roughly 29 per cent from Latin, 29 per cent from French and 26 per cent Germanic. These figures describe the dictionary, not running text: the hundred most frequent words of English are almost all Germanic (<em>the, of, and, to, be, have</em>). Latin and French words dominate formal, technical and abstract writing; Germanic words dominate speech.</p>` }
+        <p>A frequently cited count (Finkenstaedt and Wolff, <em>Ordered Profusion</em>, 1973), based on a dictionary of about 80,000 words, found roughly 28 per cent from Latin, 28 per cent from French and 25 per cent Germanic. These figures describe the dictionary, not running text: the hundred most frequent words of English are almost all Germanic (<em>the, of, and, to, be, have</em>). Latin and French words dominate formal, technical and abstract writing; Germanic words dominate speech.</p>` }
   ],
 
   contrast: [
@@ -149,7 +149,7 @@ Grammaticus.addLecture({
     { id: 'e4', type: 'mc', prompt: 'Which word came into German in Roman times?', options: ['Mauer', 'Universität', 'diskutieren'], answer: 0, explain: '<em>Mauer</em> (murus) went through the Germanic sound changes; the others are later learned borrowings.' },
     { id: 'e5', type: 'mc', prompt: 'Why <em>illegal</em> with double l?', options: ['in- assimilates to l- before legalis', 'it is a Greek spelling', 'to show a short vowel'], answer: 0, explain: 'Latin prefixes assimilate: in- + legalis → illegalis.' },
     { id: 'e6', type: 'mc', lang: 'en', prompt: '<span lang="de">Er ist sehr sensibel.</span>', options: ['He is very sensitive.', 'He is very sensible.'], answer: 0, keepOrder: true, explain: '<em>sensible</em> = vernünftig.' },
-    { id: 'e7', type: 'mc', prompt: 'The figures ~29% Latin, ~29% French, ~26% Germanic describe:', options: ['the words in a large dictionary', 'the words in typical running text', 'spoken English'], answer: 0, explain: 'In running text the most frequent words are Germanic.' },
+    { id: 'e7', type: 'mc', prompt: 'The figures of about 28% Latin, 28% French and 25% Germanic describe:', options: ['the words in a large dictionary', 'the words in typical running text', 'spoken English'], answer: 0, explain: 'In running text the most frequent words are Germanic.' },
     { id: 'e8', type: 'mc', prompt: 'From which Latin stem is <em>script</em> formed?', options: ['the participle stem (scriptum)', 'the present stem (scribere)', 'the perfect stem (scripsi)'], answer: 0, explain: '<em>script-</em> is the supine/participle stem; <em>describe</em> uses the present stem.' }
   ]
 });
