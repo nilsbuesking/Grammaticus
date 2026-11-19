@@ -267,3 +267,8 @@ Checked against the Rat's "Überblick über die Änderungen 2024" and press rele
 - 6.2: Lists of noun+verb compounds (eislaufen, kopfstehen, leidtun …) and 1996/2006 history from memory of the 2006 rules. "zuhause" as a general variant of "zu Hause" (Duden may restrict it). "alright" status in British editing.
 - 6.3: Ketschup/Majonäse withdrawn 2016/17 (sources say both). UN using Oxford spelling (widely stated, not checked). Webster 1828 and "tung": the latter is an example of Webster's unsuccessful proposals, cited from memory. "-ize has long British usage" (OED; standard view).
 - Also corrected in 5.3: closing comma after multi-part dates is obligatory since 2024.
+
+## Unit 7 (word formation)
+
+- 7.1: Fugen-s always after -ung, -heit, -keit, -schaft, -ion, -tät, -ling (standard grammar statement; -ling less certain). Regional Fugen (Schweinsbraten, Rindsuppe, Zugsverspätung): from memory. The Rindfleisch… law: Mecklenburg-Vorpommern 1999, repealed 2013 (from memory). Hyphen in long compounds "allowed for readability" (Regelwerk § 45, cited by memory). -ieren from Old French -ier.
+- 7.2: Zesen coinages (Leidenschaft, Verfasser, Anschrift) and the claim that "Gesichtserker" is a later parody; Campe's Stelldichein; Heinrich von Stephan's postal replacements (Briefumschlag, einschreiben): all from memory, commonly cited. Finkenstaedt & Wolff 1973 figures (about 80,000 words; 28.3% Latin, 28.3% French, 25% Germanic in the usual citation — text rounds to 29/29/26; check). Ivanhoe as populariser of cow/beef explanation. Inkhorn examples adjuvate, eximious.
