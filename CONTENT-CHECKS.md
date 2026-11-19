@@ -122,3 +122,19 @@ century. shall: −43.7 % written, −48.6 % spoken BrE between the 1960s and 19
 - [ ] Checked: würde-form spread first with weak verbs in Early New High German to avoid identity with the Präteritum (Szczepaniak 2011, via Friedrich Verlag); “würdelos” admonition persists in schools; Duden page gives “überwiesen / überweisen würden”.
 - [ ] ⚑ if I was / if I were both accepted by most usage guides.
 - [ ] ⚑ “if I would have known” widespread in informal American speech.
+
+### 2.12 Konjunktiv I, reported speech and backshift
+- [ ] Checked: indicative acceptable in indirect speech after dass or a question word; without an introducer the Konjunktiv is required (Duden/Brockhaus guide).
+- [ ] ⚑ Konjunktiv II where KI is available (er wäre krank) read as adding doubt; grammars disagree.
+- [ ] ⚑ Backshift optional when still true; style guides accept both.
+- [ ] Latin oratio obliqua examples (Claude’s sentences); Caesar reporting speeches in oratio obliqua.
+
+### 2.13 The English subjunctive
+- [ ] Checked: Fowlers 1906 dismissed the subjunctive; mandative subjunctive increased in the 20th century, first AmE then BrE; AmE prefers subjunctive, BrE should; Huddleston & Pullum reluctant to call it a subjunctive and call “were” irrealis; Gries et al. 2020 on BrE.
+- [ ] ⚑ lest more frequent in American than British writing.
+- [ ] ⚑ “Heischekonjunktiv” as the German term; “Es sei nur gesagt” for “suffice it to say”.
+
+### 2.14 Infinitives, participles and gerunds
+- [ ] ⚑ helfen with or without zu (the longer the group, the more usual zu).
+- [ ] ⚑ British like + -ing for enjoyment, like to for habit; American like to more broadly.
+- [ ] Verb lists for -ing / to (standard teaching lists).
