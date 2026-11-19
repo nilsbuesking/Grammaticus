@@ -247,3 +247,14 @@ Lowth echoed it; double negatives common since Old English (Chaucer, Shakespeare
 - [ ] ⚑ Prague School / Mathesius from the 1920s; theme–rheme terminology.
 - [ ] ⚑ End focus / end weight as described by Quirk et al. (1985).
 - [ ] ⚑ Clefts more frequent in English than German (general claim from contrastive studies).
+
+## Unit 5 (punctuation)
+
+German rules taken from the Amtliches Regelwerk 2024 (§§ 71–81, Abschnitte 2.4–2.5) via text extraction and the Austrian ministry's Handreichung; the exact § numbering of the 2024 text was inconsistent in the extraction.
+
+- 5.1: Aristophanes of Byzantium as originator of the three-dot system (traditional attribution). German comma rules "codified by the Duden after 1901, official only from 1996": broadly right, simplified.
+- 5.2: "Er ist älter als ich" / comparison rule cited from Duden Band 9 from memory, not checked against the current edition. Claim that the comma before und was obligatory before 1996 "with a new subject": simplified (it was obligatory between complete main clauses with their own subject).
+- 5.3: Partizipgruppen: "usually set off when embedded or following" is a summary of § 72 E3 and Duden practice, not a verbatim rule. Closing comma after dates "can be omitted" rests on the general E4 provision. "Er kam, um zu helfen" with an obligatory comma (um-infinitive, not treated as bare) — consistent with 2006 and 2024, but worth confirming. Claim that edited prose kept infinitive commas throughout 1996–2024 because the Duden recommended them: plausible, not documented. Austrian description of 2024 as "return to pre-1996 practice" and my qualification (bare infinitives).
+- 5.4: Serial comma: OUP/Chicago use it, Guardian/Economist/AP generally do not (checked). O'Connor v. Oakhurst Dairy (1st Cir. 2017; settled 2018 for $5m). "my brother, Paul" claim about usage is a qualified generalisation.
+- 5.5: OUP using closed em rules while most British publishers use spaced en rules (one secondary source). British lower case after a colon (NHR) and Chicago's rule on capitals: from memory. 2007 Shorter OED hyphen removals (about 16,000). Semicolon introduced by Aldus Manutius in the 1490s (Bembo, De Aetna 1496). Regelwerk location of the slash rule not checked.
+- 5.6: Apostrophe in business names: tolerated by the reformed rules (I am not sure whether from 1996 or from 2006) and stated explicitly in 2024. "German printing used the genitive apostrophe in the 18th and 19th centuries": documented in the literature on the Deppenapostroph, not checked in detail. Waterstones dropped the apostrophe in 2012. Diple as ancestor of quotation marks (usual account). NHR on James's and on comma inside quotation marks in dialogue: from memory.
