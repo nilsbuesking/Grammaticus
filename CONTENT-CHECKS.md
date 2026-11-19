@@ -104,3 +104,21 @@ century. shall: −43.7 % written, −48.6 % spoken BrE between the 1960s and 19
 - [ ] ⚑ Duden Band 4 on the am-Progressiv as partly standard; with preceding object regional (Rhineland, Westphalia, Switzerland).
 - [ ] ⚑ The passive progressive “is being built” objected to around 1800.
 - [ ] ⚑ Corpus evidence for continued growth of the progressive in the 20th century (Leech et al. 2009).
+
+### 2.9 Modal verbs
+- [ ] ⚑ brauchen without zu recorded by the Duden grammar; written standard keeps zu.
+- [ ] ⚑ must −29 % written / −54 % spoken, may −18 % / −40 % (OUP summary of Leech et al.).
+- [ ] ⚑ can for permission accepted by usage guides; can far ahead of may in speech.
+- [ ] ⚑ must vs have to distinction more consistent in British than American English.
+- [ ] Checked: bräuchte marked southern/colloquial in Duden-Grammatik 1998, standard in ÖWB 2004.
+
+### 2.10 The passive
+- [ ] Orwell 1946 rule wording (“Never use the passive where you can use the active.”).
+- [ ] ⚑ Pullum on misidentified passives (Language Log and elsewhere).
+- [ ] ⚑ get-passive increasing in use.
+- [ ] von/durch distinction as usually taught.
+
+### 2.11 Konjunktiv II and conditionals
+- [ ] Checked: würde-form spread first with weak verbs in Early New High German to avoid identity with the Präteritum (Szczepaniak 2011, via Friedrich Verlag); “würdelos” admonition persists in schools; Duden page gives “überwiesen / überweisen würden”.
+- [ ] ⚑ if I was / if I were both accepted by most usage guides.
+- [ ] ⚑ “if I would have known” widespread in informal American speech.
