@@ -233,3 +233,17 @@ Lowth echoed it; double negatives common since Old English (Chaucer, Shakespeare
 - [ ] ⚑ Microsoft Word flags restrictive “which” (US settings).
 - [ ] ⚑ “wo” as general relative: southern German and Swiss dialect.
 - [ ] ⚑ “the bank who …” informal British.
+
+### 4.5 Infinitive and participle clauses
+- [ ] ⚑ um … zu with passive main clause noted by grammars, discouraged by style guides; English dangling infinitive tolerated more than dangling participle.
+- [ ] ⚑ “given, considering, regarding” treated as prepositions (Huddleston & Pullum).
+
+### 4.6 Negation
+- [ ] Checked: Greenwood 1711 first statement; Lowth repeated it; Chaucer line with four negatives.
+- [ ] ⚑ none is / none are both accepted by usage guides.
+- [ ] ⚑ Bavarian “keiner nichts” as negative concord example.
+
+### 4.7 Information structure
+- [ ] ⚑ Prague School / Mathesius from the 1920s; theme–rheme terminology.
+- [ ] ⚑ End focus / end weight as described by Quirk et al. (1985).
+- [ ] ⚑ Clefts more frequent in English than German (general claim from contrastive studies).
