@@ -49,3 +49,38 @@ origin unclear; Lowth popularised the preposition rule.
 - [ ] ⚑ Tesnière, Éléments de syntaxe structurale, published posthumously 1959.
 - [ ] Quirk et al.’s seven clause patterns (SV, SVO, SVC, SVA, SVOO, SVOC, SVOA).
 - [ ] ⚑ subiectum/praedicatum from medieval logic (the terms are older, from Boethius’s translations of Aristotle).
+
+## Unit 2
+
+Checked by search when written (19 Nov 2026): Präteritum in speech mainly for haben, sein, wissen, heißen, finden,
+denken and the modals, especially in the south; Swiss German has no Präteritum; the loss spread north from Early New
+High German; Fischer 2018 monograph; Leonhard 2021 on an increase in spoken Alemannic. am-Progressiv: Duden regards it
+as partly standard already. Mandative subjunctive: AmE prefers the subjunctive, BrE should; revival in the 20th
+century. shall: −43.7 % written, −48.6 % spoken BrE between the 1960s and 1990s (Leech et al. via OUP).
+
+### 2.1 Strong, weak and irregular verbs
+- [ ] ⚑ “knapp 200” strong and irregular base verbs in present-day German.
+- [ ] ⚑ The seven Ablautreihen examples (standard handbook classification; examples chosen by Claude).
+- [ ] ⚑ backen backte/buk; melken melkte/molk with gemolken; saugen; glimmen; frug as archaic/regional.
+- [ ] ⚑ senden: sendete for broadcasting, sandte/sendete for sending.
+- [ ] ⚑ gewunken recorded as colloquial/regional; imperative geb/les/nehm recorded as colloquial.
+- [ ] ⚑ “around two hundred” irregular verbs in common English use; “only a few dozen keep three distinct forms”.
+- [ ] ⚑ snuck and dove as American innovations of the last two centuries.
+- [ ] ⚑ English “holp” as old past of help.
+
+### 2.2 The tense system
+- [ ] Reichenbach, Elements of Symbolic Logic (1947), S/R/E table.
+- [ ] ⚑ Duden-Grammatik treats Futur I/II as tenses; status disputed in research.
+- [ ] ⚑ Double perfect: described by Duden, not accepted in the written standard.
+- [ ] ⚑ The English progressive has grown markedly over the last two centuries.
+
+### 2.3 Present and future
+- [ ] ⚑ “Will I open the window?” as Scottish/Irish usage for an offer.
+- [ ] ⚑ Plain-English guidance replacing “shall” with “must” in legal drafting.
+- [ ] Romance future from cantare habeo.
+
+### 2.4 Präteritum and Perfekt
+- [ ] ⚑ e-apocope (sagte = sagt) as one discussed cause of the Präteritumschwund.
+- [ ] ⚑ sein with sitzen/stehen/liegen standard in the south, Austria and Switzerland.
+- [ ] ⚑ News pattern: Perfekt opening, then Präteritum.
+- [ ] ⚑ Older English “he is risen”, “they are come” as traces of a be-perfect.
