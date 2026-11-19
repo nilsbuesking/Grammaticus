@@ -368,3 +368,4 @@ table.terms td[lang] { font-family: var(--font-text); }
 /* Numbers in lecture lists and headings: the display font's figures look like letters (0 like O) */
 .lect .num, .lhead .numeral, .lmini .numeral, .unit .unum { font-family: var(--font-text); font-weight: 400; font-variant-numeric: lining-nums; letter-spacing: -0.01em; }
 .prose .tnote { display: block; font-family: var(--font-ui); font-size: 0.8rem; color: var(--muted); }
+.lnum { font-family: var(--font-text); font-variant-numeric: lining-nums; }

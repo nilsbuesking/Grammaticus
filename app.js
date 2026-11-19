@@ -9,7 +9,7 @@
   'use strict';
 
   const CONTENT_BASE = (document.currentScript && document.currentScript.dataset.content) || 'content/';
-  const BUILD = '2026-11-19a';          // shown under Progress so you can tell which version is running
+  const BUILD = '2026-11-19b';          // shown under Progress so you can tell which version is running
   const FORMAT = 1;                      // progress format version; bump + migrate() on change
   const STORE_KEY = 'grammaticus.progress';
   const SCALES = { s: 0.92, m: 1, l: 1.15, xl: 1.3 };   // text sizes
@@ -292,7 +292,7 @@
     return `
       <section class="today panel">
         <p class="eyebrow">Next</p>
-        ${step ? `<p class="lead">${lnum(step.l)} · ${esc(step.l.title)}</p><p class="small muted" style="margin:0">${esc(step.s.label)}</p>
+        ${step ? `<p class="lead"><span class="lnum">${lnum(step.l)}</span> · ${esc(step.l.title)}</p><p class="small muted" style="margin:0">${esc(step.s.label)}</p>
           <button class="btn wide" data-lecture="${step.l.id}" data-section="${step.s.id}">${P.lectures[step.l.id] && P.lectures[step.l.id].started ? 'Continue' : 'Start lecture'}</button>`
           : ls.length ? `<p class="lead">All available lectures are read.</p><p class="small muted" style="margin:0">New lectures arrive with updates. The Reference tab has every rule and term in the meantime.</p>`
           : `<p class="lead">The first lectures are in preparation.</p>`}
