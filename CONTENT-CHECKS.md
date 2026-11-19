@@ -207,3 +207,29 @@ dismissed as “Flickwörter”; the more colloquial, the more particles.
 - [ ] ⚑ Usage guides treat the ban on initial And/But as a superstition (stated generally; no single source named).
 - [ ] ⚑ denn rare in speech; trotzdem as subordinator old and regional.
 - [ ] ⚑ whilst formal/old-fashioned in British English.
+
+## Unit 4
+
+Checked by search when written (19 Nov 2026): topological model goes back to Drach (1937, posthumous), with earlier
+work by Herling (1821) and Erdmann (1886). Double negatives: Greenwood (1711) first stated that two negatives affirm;
+Lowth echoed it; double negatives common since Old English (Chaucer, Shakespeare).
+
+### 4.1 German word order
+- [ ] ⚑ Drach’s title “Grundgedanken der deutschen Satzlehre”.
+- [ ] ⚑ Ausklammerung old in German and accepted by grammars and style guides for long phrases.
+- [ ] ⚑ Latin influence on verb-final subordinate clauses (stated as disputed/reinforcing only).
+
+### 4.2 English word order and inversion
+- [ ] ⚑ do-support spread from the 16th century, largely complete by the 18th.
+- [ ] ⚑ Indirect-question inversion normal in Irish and Indian English.
+- [ ] ⚑ “Have you a moment?” old-fashioned in British English.
+
+### 4.3 Coordination and subordination
+- [ ] Mark Twain, “The Awful German Language” (appendix to A Tramp Abroad, 1880).
+- [ ] ⚑ Latin periodic style as model for German humanist/chancery prose and 17th-century English (Milton, Browne).
+
+### 4.4 Relative clauses
+- [ ] ⚑ Fowler 1926 proposed the that/which distinction and admitted it was not the practice of most or the best writers.
+- [ ] ⚑ Microsoft Word flags restrictive “which” (US settings).
+- [ ] ⚑ “wo” as general relative: southern German and Swiss dialect.
+- [ ] ⚑ “the bank who …” informal British.
