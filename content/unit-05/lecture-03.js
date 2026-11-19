@@ -46,8 +46,9 @@ Grammaticus.addLecture({
         <div class="ex"><p lang="de">Er kommt morgen<u class="k">, und zwar</u> um zehn.</p><p lang="de">Wir erstatten Ausgaben<u class="k">, zum Beispiel</u> Fahrtkosten<u class="k">,</u> gegen Beleg.</p></div>
         <p><strong>Datum, Wohnort, Seitenangaben</strong> als Zusätze:</p>
         <div class="ex"><p lang="de">Die Tagung beginnt am Mittwoch<u class="k">,</u> dem 14. November.</p><p lang="de">Am Freitag<u class="k">,</u> den 25. September<u class="k">,</u> feiern sie ihre Silberhochzeit.</p></div>
-        <p>Wird der Nachtrag als verkürztes Satzglied verstanden, kann das schließende Komma entfallen.</p>
-        <p class="src">Amtliches Regelwerk 2024, § 72 E1, E4, E5.</p>` },
+        <p>Bei mehrteiligen Datumsangaben ist das schließende Komma seit 2024 <strong>Pflicht</strong>. Freigestellt ist es dagegen bei nachgestellten Erläuterungen, die man als verkürztes Satzglied verstehen kann:</p>
+        <div class="ex"><p lang="de">Viele Firmen, insbesondere finnische<u class="k">(,)</u> waren vertreten.</p></div>
+        <p class="src">Amtliches Regelwerk 2024, § 72 E1, E4, E5; Rat für deutsche Rechtschreibung, Überblick über die Änderungen 2024.</p>` },
     { title: 'Anrede, Ausruf, Stellungnahme',
       html: `
         <p>Anreden, Ausrufe und Antwortpartikeln werden durch Komma abgetrennt:</p>
@@ -117,7 +118,7 @@ Grammaticus.addLecture({
     { id: 'de-komma-infinitiv', title: 'Komma bei Infinitivgruppen (2024)', tags: ['Komma', 'Infinitiv', 'zu'], html: `
       <p><strong>Grundsatz</strong>: Komma (<em>froh, bleiben zu können</em>).<br><strong>Freigestellt</strong>: bloßer zu-Infinitiv (<em>entschieden(,) umzuziehen</em>); unterbrochene Verbgruppe.<br><strong>Kein Komma</strong>: mehrteiliges Prädikat (<em>scheint zu unterschätzen; ist einzureichen; zu erreichen versucht</em>).</p>` },
     { id: 'de-komma-zusatz', title: 'Komma bei Zusätzen', tags: ['Komma', 'Zusatz', 'Apposition', 'Anrede'], html: `
-      <p>Beidseitig: Apposition, Nachtrag (<em>, und zwar …</em>), Datum (<em>am Freitag, dem 25. September,</em>), Anrede, Ausruf (<em>Ach, …</em>). Enge Apposition ohne: <em>mein Bruder Paul</em>.</p>` }
+      <p>Beidseitig: Apposition, Nachtrag (<em>, und zwar …</em>), Datum (<em>am Freitag, dem 25. September,</em> – schließendes Komma seit 2024 Pflicht), Anrede, Ausruf (<em>Ach, …</em>). Enge Apposition ohne: <em>mein Bruder Paul</em>.</p>` }
   ],
 
   terms: [
