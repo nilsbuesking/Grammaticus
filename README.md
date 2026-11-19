@@ -5,7 +5,7 @@ grammatical concept and covers both languages, with many examples, the differenc
 the codified rule and actual usage, and best practice. Text only; works offline; progress stays on the phone with an
 automatic backup to GitHub.
 
-**Open it:** https://nilsbuesking.github.io/grammaticus/ in Safari on the iPhone, then Share → Add to Home Screen.
+**Open it:** https://nilsbuesking.github.io/Grammaticus/ in Safari on the iPhone, then Share → Add to Home Screen.
 
 ## A lecture
 Concept · Deutsch (written in German) · English · DE ↔ EN, and where there is something to say: Rule & usage ·
