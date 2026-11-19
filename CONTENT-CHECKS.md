@@ -272,3 +272,15 @@ Checked against the Rat's "Überblick über die Änderungen 2024" and press rele
 
 - 7.1: Fugen-s always after -ung, -heit, -keit, -schaft, -ion, -tät, -ling (standard grammar statement; -ling less certain). Regional Fugen (Schweinsbraten, Rindsuppe, Zugsverspätung): from memory. The Rindfleisch… law: Mecklenburg-Vorpommern 1999, repealed 2013 (from memory). Hyphen in long compounds "allowed for readability" (Regelwerk § 45, cited by memory). -ieren from Old French -ier.
 - 7.2: Zesen coinages (Leidenschaft, Verfasser, Anschrift) and the claim that "Gesichtserker" is a later parody; Campe's Stelldichein; Heinrich von Stephan's postal replacements (Briefumschlag, einschreiben): all from memory, commonly cited. Finkenstaedt & Wolff 1973 figures (about 80,000 words; 28.3% Latin, 28.3% French, 25% Germanic in the usual citation — text now uses 28/28/25). Ivanhoe as populariser of cow/beef explanation. Inkhorn examples adjuvate, eximious.
+
+## Unit 8 (style and register)
+
+Checked by search: Rat für deutsche Rechtschreibung on gender characters (2021 recommendations, 14.7.2023 decision, 15.12.2023 explanations: not core orthography; school assessment is for school policy); state bans (Saxony first; Schleswig-Holstein 2021; Saxony-Anhalt 2023; Bavaria from April 2024 incl. universities and authorities; Hesse 2024 administration and Abitur); Bremen/Saarland explicitly allowing (Statista graphic); Weimer and Prien 2025; Swiss Bundeskanzlei directive 15.6.2021; Austrian BMBWF guideline; UK statement 8.3.2007 and OPC guidance; AP 2017, Chicago 17th/18th, APA 2019 on singular they.
+
+- 8.1: Joos 1961; Koch/Oesterreicher 1985; Biber on informalisation; DIN 5008; British "Yours faithfully/sincerely" convention (standard).
+- 8.2: Orwell quotations (rules 2 and 4 of 1946 essay); Helen Sword "zombie nouns" (NYT 2012); Plain English Campaign 1979; US Plain Writing Act 2010; GOV.UK style guide date; Bundesverwaltungsamt handbook title; Reiners' dependence on Engel (documented by Stefan Stirnemann and others); Schneider 1984. Summary of plain-language research is general, not tied to a specific meta-analysis.
+- 8.3: Pullum 2009 (Chronicle: three of four Strunk & White examples not passives) and 2014; "zombie test" attributed to Rebecca Johnson; Biber et al. 1999 frequency claim; Strunk 1918 "Use the active voice".
+- 8.4: GOV.UK "about 25 words" and 15–20 word averages; Amstad 1978; Schneider's 20–25 word advice; Twain 1880 (in A Tramp Abroad).
+- 8.5: "zombie rules" coined by Arnold Zwicky; Dryden 1672; AP accepting "hopefully" in 2012; Baker 1770; Duden labels for "Sinn machen" and "brauchen" without zu (labels not rechecked); sales figures for Truss and Sick.
+- 8.6: Shu & Carlson 2014 (Journal of Marketing); Pope 1711; claim about German post-1945 rhetorical restraint flagged in text as poorly documented.
+- 8.7: Psycholinguistic studies cited generally (Stahlberg/Sczesny; Gygax et al. 2008). Austrian practice described only as varying by ministry. Status "as of late 2026": state rules may have changed since the sources (2024–2025).

@@ -38,8 +38,10 @@ Grammaticus.setCatalogue({
       lectures: ['unit-07/lecture-01.js', 'unit-07/lecture-02.js'],
       check: 'unit-07/check.js',
       planned: [] },
-    { id: 'u8', number: 8, title: 'Style and register', lectures: [],
-      planned: ['The register spectrum', 'Nominalstil and plain English', 'The passive debate', 'Sentence length and rhythm', 'Zombie rules', 'Rhetorical figures', 'Gender-inclusive language'] },
+    { id: 'u8', number: 8, title: 'Style and register',
+      lectures: ['unit-08/lecture-01.js', 'unit-08/lecture-02.js', 'unit-08/lecture-03.js', 'unit-08/lecture-04.js', 'unit-08/lecture-05.js', 'unit-08/lecture-06.js', 'unit-08/lecture-07.js'],
+      check: 'unit-08/check.js',
+      planned: [] },
     { id: 'u9', number: 9, title: 'Change and variation', lectures: [],
       planned: ['Language change in progress', 'Regional varieties: Austria, Switzerland, Britain, America'] }
   ]
