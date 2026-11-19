@@ -165,3 +165,21 @@ century and recovered (Szmrecsanyi 2013).
 - [ ] ⚑ “Ukraine” without article now required by most English style guides.
 - [ ] ⚑ “an historic” as conservative British; “a historic” now usual.
 - [ ] Article history: demonstrative → definite, “one” → indefinite (standard handbook account).
+
+### 1.4 Pronouns
+- [ ] ⚑ “Hamburger Sie” / “Münchner Du” descriptions.
+- [ ] ⚑ Du in German workplaces spread in the last two decades, partly under English-speaking corporate influence (stated loosely).
+- [ ] ⚑ thou/thee survival (northern dialects, Quakers, religious language); polite plural from late antiquity.
+- [ ] ⚑ whom in long decline (corpus statement in general terms).
+
+### 1.5 Adjectives
+- [ ] ⚑ Parallel vs weak second adjective in dative m./n. (mit frischem grünem/grünen Salat): both recorded.
+- [ ] ⚑ “diesen Jahres” marked non-standard by Duden; some linguists see change in progress.
+- [ ] ⚑ als/wie: wie after comparative standard in Early New High German; als required in writing since the 19th century.
+- [ ] ⚑ Forsyth (2013) passage on adjective order went viral in 2016; Quirk et al. discuss the order.
+
+### 1.6 The genitive and its rivals
+- [ ] Checked: trotz, dank and others now mainly with genitive (ejournals.eu article).
+- [ ] ⚑ Bastian Sick, Der Dativ ist dem Genitiv sein Tod (2004).
+- [ ] ⚑ James’s as the usual British style for names (New Hart’s Rules).
+- [ ] ⚑ Duden 2024 summary wording on the apostrophe (“nur noch in einem Spezialfall”) and its relation to the old “Andrea’s” clarification rule.
