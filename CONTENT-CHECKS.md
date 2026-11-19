@@ -84,3 +84,23 @@ century. shall: −43.7 % written, −48.6 % spoken BrE between the 1960s and 19
 - [ ] ⚑ sein with sitzen/stehen/liegen standard in the south, Austria and Switzerland.
 - [ ] ⚑ News pattern: Perfekt opening, then Präteritum.
 - [ ] ⚑ Older English “he is risen”, “they are come” as traces of a be-perfect.
+
+### 2.5 Past simple and present perfect
+- [ ] ⚑ American past simple with just/already/yet; present perfect with definite past time in informal speech and sports commentary.
+- [ ] Latin “iam diu Romae habito” for a continuing state (Claude’s example).
+
+### 2.6 Pluperfect and future perfect
+- [ ] ⚑ nachdem + Präteritum counted as an error with a Präteritum main clause (Duden Band 9).
+- [ ] ⚑ Colloquial “distant past” Plusquamperfekt described by grammars as widespread.
+- [ ] ⚑ English past perfect optional after “after/before” (style guides accept).
+
+### 2.7 Tense in subordinate clauses
+- [ ] ⚑ Present for future in time/conditional clauses already in Shakespeare and the King James Bible, beside “if it be so”.
+- [ ] ⚑ “if the tenant shall fail to pay” as a legal archaism.
+- [ ] Latin examples: Si hoc feceris, laetus ero; Cum Romam venero, ad te scribam (Claude’s sentences).
+- [ ] ⚑ Quirk et al. and Huddleston & Pullum cited for the rule in general terms (no page numbers).
+
+### 2.8 Aspect and the progressive
+- [ ] ⚑ Duden Band 4 on the am-Progressiv as partly standard; with preceding object regional (Rhineland, Westphalia, Switzerland).
+- [ ] ⚑ The passive progressive “is being built” objected to around 1800.
+- [ ] ⚑ Corpus evidence for continued growth of the progressive in the 20th century (Leech et al. 2009).
