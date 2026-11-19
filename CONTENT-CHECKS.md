@@ -138,3 +138,30 @@ century. shall: −43.7 % written, −48.6 % spoken BrE between the 1960s and 19
 - [ ] ⚑ helfen with or without zu (the longer the group, the more usual zu).
 - [ ] ⚑ British like + -ing for enjoyment, like to for habit; American like to more broadly.
 - [ ] Verb lists for -ing / to (standard teaching lists).
+
+## Unit 1
+
+Checked by search when written (19 Nov 2026): wegen + genitive standard, dative colloquial and standard where the
+genitive plural is not visible (Duden); trotz + dative especially southern German, Swiss, Austrian, and generally
+without article or with alldem (Duden); apostrophe before genitive -s of names since 2024 only when the whole is a
+name (Eva's Blumenladen), Duden: only in a special case; singular they since the 14th century, rejected by
+18th-century grammarians, CMOS 17th ed. 2017 (personal) and 2024 (generic), AP 2017, Merriam-Webster word of the year
+2019; s-genitive increasing since the early 20th century (Hinrichs & Szmrecsanyi 2007), collapsed in the early 19th
+century and recovered (Szmrecsanyi 2013).
+
+### 1.1 Gender and number
+- [ ] ⚑ der/das Virus (das fachsprachlich); die/das E-Mail (AT/CH das); der/das Blog; Konten/Kontos/Konti (Konti regional).
+- [ ] ⚑ Kommas and Kommata both standard; “commata” in English only as a rare technical term.
+- [ ] ⚑ das Mädchen … sie accepted at a distance.
+- [ ] ⚑ ships as “she” declining; style guides recommending “it”.
+- [ ] data is/are both accepted by usage guides.
+
+### 1.2 Case
+- [ ] ⚑ “des Bärs” recorded as colloquial; loss of n-ending non-standard in writing.
+- [ ] ⚑ “Dem deutschen Volke” (Reichstag inscription, 1916) as Dativ-e example.
+- [ ] ⚑ 18th-century condemnation of “It’s me” on the Latin model.
+
+### 1.3 Articles and determiners
+- [ ] ⚑ “Ukraine” without article now required by most English style guides.
+- [ ] ⚑ “an historic” as conservative British; “a historic” now usual.
+- [ ] Article history: demonstrative → definite, “one” → indefinite (standard handbook account).
