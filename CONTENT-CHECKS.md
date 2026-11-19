@@ -183,3 +183,27 @@ century and recovered (Szmrecsanyi 2013).
 - [ ] ⚑ Bastian Sick, Der Dativ ist dem Genitiv sein Tod (2004).
 - [ ] ⚑ James’s as the usual British style for names (New Hart’s Rules).
 - [ ] ⚑ Duden 2024 summary wording on the apostrophe (“nur noch in einem Spezialfall”) and its relation to the old “Andrea’s” clarification rule.
+
+## Unit 3
+
+Checked by search when written (19 Nov 2026): weil + V2 described as spoken grammar, corpus examples from FOLK (2009)
+and the Zwirner corpus (1957) and Bavarian dialect; in writing only in speech-like texts; also obwohl, wobei, während
+with V2 (Wegener 1993; Freywald 2010). Modal particles: Weydt, Abtönungspartikel (1969) the founding study; earlier
+dismissed as “Flickwörter”; the more colloquial, the more particles.
+
+### 3.1 Prepositions
+- [ ] ⚑ entlang with genitive, dative and accusative (by position) all recorded.
+- [ ] ⚑ different from / to / than: BrE to, AmE than, all used by good writers.
+- [ ] ⚑ “on the weekend” spreading in British usage.
+- [ ] Latin in + accusative/ablative parallel.
+
+### 3.2 Adverbs and modal particles
+- [ ] ⚑ AP Stylebook accepted sentence-adverb “hopefully” in 2012.
+- [ ] ⚑ British vs American “quite”.
+- [ ] ⚑ “Da weiß ich nichts von” as northern and colloquial.
+- [ ] ⚑ halt mainly southern, eben northern.
+
+### 3.3 Conjunctions
+- [ ] ⚑ Usage guides treat the ban on initial And/But as a superstition (stated generally; no single source named).
+- [ ] ⚑ denn rare in speech; trotzdem as subordinator old and regional.
+- [ ] ⚑ whilst formal/old-fashioned in British English.

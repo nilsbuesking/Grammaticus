@@ -4,7 +4,7 @@
  * changes, so raise VERSION with every push (tests/version_check.py fails if this is forgotten).
  * Fonts from Google go into a separate cache, MEDIA, which survives version changes. Requests to GitHub (the
  * automatic backup) are never cached. */
-const VERSION = 'grammaticus-v8';
+const VERSION = 'grammaticus-v9';
 const MEDIA = 'grammaticus-media';
 const MEDIA_MAX = 200;   // entries; the oldest are removed beyond this
 const CORE = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png',
@@ -16,7 +16,8 @@ const CORE = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', '
   'content/unit-02/lecture-09.js', 'content/unit-02/lecture-10.js', 'content/unit-02/lecture-11.js',
   'content/unit-02/lecture-12.js', 'content/unit-02/lecture-13.js', 'content/unit-02/lecture-14.js', 'content/unit-02/check.js',
   'content/unit-01/lecture-01.js', 'content/unit-01/lecture-02.js', 'content/unit-01/lecture-03.js',
-  'content/unit-01/lecture-04.js', 'content/unit-01/lecture-05.js', 'content/unit-01/lecture-06.js', 'content/unit-01/check.js'];
+  'content/unit-01/lecture-04.js', 'content/unit-01/lecture-05.js', 'content/unit-01/lecture-06.js', 'content/unit-01/check.js',
+  'content/unit-03/lecture-01.js', 'content/unit-03/lecture-02.js', 'content/unit-03/lecture-03.js', 'content/unit-03/check.js'];
 
 self.addEventListener('install', e => {
   // cache: 'reload' skips the browser's own HTTP cache, which GitHub Pages lets keep files for 10 minutes
