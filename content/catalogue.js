@@ -1,0 +1,36 @@
+/*
+ * Course catalogue: the units, the lecture files written so far, and the lectures still planned.
+ * To add a lecture: write content/unit-NN/lecture-MM.js, add it to `lectures` of its unit, remove its title from
+ * `planned`, and add the file to CORE in sw.js. The engine (app.js) needs no change.
+ */
+Grammaticus.setCatalogue({
+  units: [
+    { id: 'u0', number: 0, title: 'Foundations',
+      intro: 'Where the norms come from, who sets them, and the vocabulary for talking about grammar.',
+      lectures: ['unit-00/lecture-01.js', 'unit-00/lecture-02.js', 'unit-00/lecture-03.js', 'unit-00/lecture-04.js'],
+      check: 'unit-00/check.js',
+      planned: [] },
+    { id: 'u1', number: 1, title: 'The noun phrase', lectures: [],
+      planned: ['Gender and number', 'Case', 'Articles and determiners', 'Pronouns', 'Adjectives: endings and comparison', 'The genitive and its rivals'] },
+    { id: 'u2', number: 2, title: 'The verb', lectures: [],
+      planned: ['Conjugation: strong, weak, irregular', 'The tense system', 'Present and future', 'Präteritum and Perfekt', 'Past simple and present perfect',
+        'Pluperfect and future perfect', 'Tense in subordinate clauses', 'Aspect and the progressive', 'Modal verbs', 'The passive',
+        'Konjunktiv II and conditionals', 'Konjunktiv I, reported speech and backshift', 'The English subjunctive', 'Infinitives, participles and gerunds'] },
+    { id: 'u3', number: 3, title: 'Small words', lectures: [],
+      planned: ['Prepositions and the cases they take', 'Adverbs and modal particles', 'Conjunctions'] },
+    { id: 'u4', number: 4, title: 'Sentence structure', lectures: [],
+      planned: ['German word order: V2, verb-final, the verb bracket', 'English word order and inversion', 'Coordination and subordination', 'Relative clauses',
+        'Infinitive and participle clauses', 'Negation', 'Information structure and emphasis'] },
+    { id: 'u5', number: 5, title: 'Punctuation', lectures: [],
+      planned: ['Principles: grammar against rhythm', 'The German comma I: clauses and lists', 'The German comma II: infinitives, additions, optional commas',
+        'The English comma', 'Semicolon, colon, dash, hyphen', 'Quotation marks and the apostrophe'] },
+    { id: 'u6', number: 6, title: 'Spelling', lectures: [],
+      planned: ['ß and ss, capitalisation', 'Getrennt- und Zusammenschreibung', 'British, American and Oxford spelling'] },
+    { id: 'u7', number: 7, title: 'Word formation', lectures: [],
+      planned: ['Compounding and derivation', 'Latin roots in German and English'] },
+    { id: 'u8', number: 8, title: 'Style and register', lectures: [],
+      planned: ['The register spectrum', 'Nominalstil and plain English', 'The passive debate', 'Sentence length and rhythm', 'Zombie rules', 'Rhetorical figures', 'Gender-inclusive language'] },
+    { id: 'u9', number: 9, title: 'Change and variation', lectures: [],
+      planned: ['Language change in progress', 'Regional varieties: Austria, Switzerland, Britain, America'] }
+  ]
+});
